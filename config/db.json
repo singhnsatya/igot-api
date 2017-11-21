@@ -1,0 +1,4 @@
+{
+	"mlab": "mongodb://satya:admin@ds113826.mlab.com:13826/got-api",
+	"local": "mongodb://localhost:27017/got-api"
+}

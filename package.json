@@ -1,0 +1,19 @@
+{
+  "name": "got-api",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon bin/dev --exec babel-node --presets es2015,stage-2"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "mongoose": "~4.13.4"
+  }
+}

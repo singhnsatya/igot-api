@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon bin/dev --exec babel-node --presets es2015,stage-2"
-  },
-  "engines": {
-    "node": "6.9.1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "BSD-2-Clause",
